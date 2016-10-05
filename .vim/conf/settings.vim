@@ -6,7 +6,7 @@ set noswapfile
 set number
 set background=dark
 set hlsearch incsearch
-set clipboard=unamed
+set clipboard=unnamed
 set cursorline
 set ignorecase smartcase magic
 set laststatus=2

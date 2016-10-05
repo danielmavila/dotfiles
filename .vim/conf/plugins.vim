@@ -6,6 +6,7 @@ call vundle#begin()
 Plugin 'noahfrederick/vim-hemisu'
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'sheerun/vim-polyglot'
+Plugin 'fatih/vim-go'
 Plugin 'tpope/fugitive'
 Plugin 'tpope/commentary'
 

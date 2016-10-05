@@ -7,8 +7,8 @@ Plugin 'noahfrederick/vim-hemisu'
 Plugin 'VundleVim/Vundle.vim'
 Plugin 'sheerun/vim-polyglot'
 Plugin 'fatih/vim-go'
-Plugin 'tpope/fugitive'
-Plugin 'tpope/commentary'
+Plugin 'tpope/vim-fugitive'
+Plugin 'tpope/vim-commentary'
 
 call vundle#end()
 filetype plugin indent on

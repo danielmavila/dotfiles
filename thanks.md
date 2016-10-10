@@ -1,0 +1,4 @@
+- [Fatih Arslan](https://github.com/fatih)
+- [Michael Avila](https://github.com/michaelavila)
+- [Jessie Frazelle](https://github.com/jessfraz)
+- [Tim Pettersen](https://twitter.com/kannonboy)

@@ -12,6 +12,5 @@ set ignorecase smartcase magic
 set laststatus=2
 set noswapfile
 set wrap linebreak
-set pastetoggle=<F2>
 
 colorscheme hemisu
